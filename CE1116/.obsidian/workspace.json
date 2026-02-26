@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "f279a1b143db1f70",
+    "id": "f4f336c1aa2a6d60",
     "type": "split",
     "children": [
       {
-        "id": "e935b0004f44ff65",
+        "id": "fbbdb08a797a33c5",
         "type": "tabs",
         "children": [
           {
-            "id": "760f7d6d800e40fe",
+            "id": "d4874968947a571f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9c70527e114948c5",
+    "id": "d1bea171c6d00398",
     "type": "split",
     "children": [
       {
-        "id": "b7d692dab632a247",
+        "id": "6e0b71b83c2b7013",
         "type": "tabs",
         "children": [
           {
-            "id": "db16e484f5c7cb1a",
+            "id": "dcbc9633de2cbae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cbfd782b347d8689",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,7 +61,7 @@
             }
           },
           {
-            "id": "3affe3fbcfbbf357",
+            "id": "0c00a411682f623a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -64,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "825d4fa8716a355e",
+    "id": "8f693f8a7064d871",
     "type": "split",
     "children": [
       {
-        "id": "6bb6defe4507f10f",
+        "id": "1040c463520e2189",
         "type": "tabs",
         "children": [
           {
-            "id": "651482cb177f60a4",
+            "id": "28f698bdd8ac3f4c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "85460fac7dc49ea8",
+            "id": "535e286a63b51b49",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "fa2c1834295a6989",
+            "id": "16b57ecb37fd533e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,18 +131,31 @@
             }
           },
           {
-            "id": "c2ac073a0c18f349",
+            "id": "4ffa64129bb99ed8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d9423973ce25f3c0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -143,48 +167,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "760f7d6d800e40fe",
+  "active": "d4874968947a571f",
   "lastOpenFiles": [
-    "Untitled.base",
+    "05_Pruebas/Pruebas Funcionales.md",
+    "01_Procesos de Desarrollo/Sprint Planning.md",
+    "05_Pruebas/Definition of Done (DoD).md",
+    "05_Pruebas/Pruebas Unitarias.md",
+    "02_Requerimientos/User Story.md",
+    "01_Procesos de Desarrollo/Taskboard.md",
+    "00_Inbox/Ejemplo Nueva Nota.md",
     "01_Procesos de Desarrollo/Product Owner.md",
-    "01_Procesos de Desarrollo",
-    "CE1116/00_Inbox/Stakeholder.md",
-    "02_Requerimientos/Requerimientos de Negocio.md",
-    "02_Requerimientos",
-    "CE1116/00_Inbox/Ejemplo Nueva Nota.md",
-    "CE1116/08_Templates/Atomic Template.md",
-    "CE1116/00_Inbox/Hola.md",
-    "README.md",
-    "CE1116/07_Mantenimiento/Monitoreo de Aplicación.md",
-    "CE1116/06_Despliegue e Infrastructura/Azure DevOps.md",
-    "CE1116/03_Arquitectura y Diseño/Microservicios.md",
-    "CE1116/02_Requirimientos/Entrevistas.md",
-    "CE1116/01_Procesos de Desarrollo/Scrum.md",
-    "CE1116/04_Implementación/Estándares de Programación.md",
-    "CE1116/05_Pruebas/Pruebas Unitarias.md",
-    "Untitled.canvas",
-    "CE1116/00_Inbox/test1.md",
-    "CE1116/00_Inbox/test.md",
+    "01_Procesos de Desarrollo/Planning Poker.md",
+    "01_Procesos de Desarrollo/Story Points.md",
+    "01_Procesos de Desarrollo/Velocity.md",
+    "01_Procesos de Desarrollo/Sprint Backlog.md",
+    "01_Procesos de Desarrollo/Product Backlog.md",
+    "01_Procesos de Desarrollo/Scrum.md",
+    "01_Procesos de Desarrollo/Filosofía Ágil.md",
+    "02_Requerimientos/Requerimientos No Funcionales.md",
+    "02_Requerimientos/Requerimientos Funcionales.md",
+    "02_Requerimientos/Requerimientos de Sistema.md",
+    "08_Templates/Atomic Template.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "CE1116/08_Templates",
-    "CE1116/00_Inbox",
-    "CE1116/07_Mantenimiento",
-    "06_Maintenance",
-    "Untitled",
-    "CE1116/06_Despliegue e Infrastructura",
-    "CE1116/05_Pruebas",
-    "CE1116/04_Implementación",
-    "Welcome.md"
+    "02_Requerimientos/Requerimientos de Negocio.md",
+    "02_Requerimientos/Stakeholder.md",
+    "00_Inbox/Ejemplo Nueva Nota 1 2.md",
+    "00_Inbox/Ejemplo Nueva Nota 12.md",
+    "00_Inbox/Ejemplo Nueva Nota 11.md",
+    "00_Inbox/Ejemplo Nueva Nota 10.md",
+    "02_Requerimientos"
   ]
 }

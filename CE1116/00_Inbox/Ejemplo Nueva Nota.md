@@ -5,10 +5,6 @@ tags:
 Topic:
 ---
 
-
-# **Ejemplo Nueva Nota**
-
-
 ---
 
 ## 📚 Idea/Concepto 
