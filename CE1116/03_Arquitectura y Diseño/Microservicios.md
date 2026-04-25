@@ -15,7 +15,7 @@ Topic:
 - 
 
 ## 🔗 Connections
-- [[Ejemplo Nueva Nota]]
+- [[Virtual Private Cloud (VPC)]]
 
 ## 💡 Personal Insight (Opcional)
 - 
